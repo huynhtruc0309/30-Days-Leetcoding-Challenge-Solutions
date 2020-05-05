@@ -5,12 +5,12 @@ During COVID-19 and social distancing, many of us around the world being encoura
 ## Problem Set
 In this challenge, there are a total of 30 problems with increasing difficulty each day. I have developed clean and optimal solutions possible. For each problem, I provide solutions from the simplest one to a more complex one. Have fun!!!
 
-1. [Single Number]()
-2. [Happy Number]() 
-3. [Maximum Subarray]() 
-4. [Move Zeroes]()
-5. [Best Time to Buy and Sell Stock II]()  
-6. [Group Anagrams]()
+1. [Single Number](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/singleNumber.cpp)
+2. [Happy Number](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/happyNumber.cpp) 
+3. [Maximum Subarray](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/maximumSubarray.cpp) 
+4. [Move Zeroes](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/moveZeroes.cpp)
+5. [Best Time to Buy and Sell Stock II](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/bestTimeToBuyAndSellStockII.cpp)  
+6. [Group Anagrams](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/groupAnagrams.cpp)
 7. []()
 8. [Middle of the Linked List]()  
 9. [Backspace String Compare]()
