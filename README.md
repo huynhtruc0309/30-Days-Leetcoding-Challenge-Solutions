@@ -3,7 +3,17 @@
 ## Introduction
 During COVID-19 and social distancing, many of us around the world being encouraged to stay indoors and work from home, this is the perfect opportunity for us to focus on studying up for future code interviews. In order to help you stay focused, LeetCode was running the 30-Day LeetCoding Challenge for the month of April. 
 ## Problem Set
-In this challenge, there are a total of 30 problems with increasing difficulty each day. I have developed clean and optimal solutions possible. For each problem, I provide solutions from the simplest one to a more complex one. Have fun!!!
+In this challenge, there are a total of 30 problems with increasing difficulty each day. I have developed clean and optimal solutions possible. For each problem, I provide solutions from the simplest one to a more complex one along with its complexity. 
+
+For solving each problem, I suggest following these steps:
+* Propose different test cases.
+* Method to solve the problem
+* Optimization or a better method to solve the problem.
+* Complexity analysis
+* Expected or actual output
+* Worst, average, and best-case scenario
+
+And finally having fun!!!
 
 1. [Single Number](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/singleNumber.cpp)
 2. [Happy Number](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/happyNumber.cpp) 
