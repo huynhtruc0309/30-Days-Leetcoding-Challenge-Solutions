@@ -47,7 +47,11 @@ And finally having fun!!!
 29. [Binary Tree Maximum Path Sum]() 
 30. []()
 ## Contact
+# Contact
+Author: Phuong-Truc Huynh Luong
 
-Phuong-Truc Huynh Luong - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com
+LinkedIn: https://www.linkedin.com/in/hlptruc/
 
-Project Link: [https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions)
+Email: huynhtruc0309@gmail.com
+
+Facebook: https://www.facebook.com/hlptruc/
